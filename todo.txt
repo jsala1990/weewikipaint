@@ -1,0 +1,6 @@
+WeeWikiPaint
+
+MVP
+  : home page
+  : paiting page
+  : real time multi user paint thing
