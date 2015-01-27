@@ -4,3 +4,16 @@ MVP
   : home page
   : paiting page
   : real time multi user paint thing
+
+US
+  : 'hello world' server
+  : 'hello world' client
+  : support multiple browsers
+  : copy
+
+Engineering tasks
+  : static code analysis
+  : automated build
+  : CI
+  : server-side testing
+  : client-side testing

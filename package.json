@@ -1,0 +1,12 @@
+{
+  "name": "weewikipaint",
+  "version": "1.0.0",
+  "description": "james shore tutorial",
+  "main": " ",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "scripts": {
+    "test": "test"
+  }
+}
